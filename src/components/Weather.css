@@ -1,0 +1,10 @@
+.weather-main{
+    margin:auto;
+}
+input{
+    margin: 5px;
+}
+
+p, h2, h3, h4, h5{
+    color: black;
+}
